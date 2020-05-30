@@ -15,4 +15,4 @@ curl -N --http2 -H "Accept:text/event-stream" http://127.0.0.1:8080/sse/api/stoc
 
 ![jee8-sse](jee8-sse.gif)
 
-
+something else
